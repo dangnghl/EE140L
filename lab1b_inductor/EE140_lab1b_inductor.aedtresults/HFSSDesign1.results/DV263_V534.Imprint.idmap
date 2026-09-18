@@ -1,0 +1,15 @@
+$begin 'imprintInfo'
+	FileVersion='2026R1'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(196, 'substrate', -1, 7, 197, 199, 200, 201, 198, 202, 540)
+		Part(404, 'Rectangle1', -1, 1, 414)
+		Part(416, 'ground_strap', -1, 43, 419, 421, 417, 420, 418, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 283, 278, 279, 281, 447, 551, 9, 10, 11, 12, 507, 508, 509, 552)
+		Part(455, 'air_box', -1, 6, 456, 458, 459, 460, 457, 461)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'

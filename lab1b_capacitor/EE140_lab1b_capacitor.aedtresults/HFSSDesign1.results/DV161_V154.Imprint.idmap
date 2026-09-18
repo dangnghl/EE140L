@@ -1,0 +1,16 @@
+$begin 'imprintInfo'
+	FileVersion='2026R1'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(30, 'ground', -1, 6, 31, 33, 34, 35, 32, 36)
+		Part(58, 'substrate', -1, 6, 59, 61, 62, 63, 60, 64)
+		Part(198, 'input', -1, 10, 199, 201, 202, 203, 200, 226, 173, 227, 175, 176)
+		Part(245, 'port1', -1, 1, 255)
+		Part(285, 'air_box', -1, 6, 286, 288, 289, 290, 287, 291)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'
