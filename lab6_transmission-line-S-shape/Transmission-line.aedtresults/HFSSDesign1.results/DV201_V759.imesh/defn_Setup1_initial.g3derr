@@ -1,0 +1,22 @@
+G3dErrFileVersion 2025R1
+FlagFileMetaData Begin
+   Phi mesher for MCAD Report of illegal tets :Title    
+    :ToolTip  
+   Classic :Author   
+   1794008963 :TimeStamp
+   mm :UnitName 
+   1.0000000000000000e-03 :UnitConv
+FlagFileMetaData End
+BEGIN_ERR 
+26 Phi mesher: Vertical facet cutting across Z level could not be split.
+ Phi mesher: Vertical facet cutting across Z level could not be split. 
+ On the body trace some vertical facets have edges crossing Z= 1.600000 mm. Phi mesher is not able to split them or swap them. The facet might be too narrow 
+1 -1  # nfids, fids[]
+1 1178  # nbids, bids[]
+      0 0 2 0 #ntets ntri ned npts
+           4.2299038105676630e+01   3.8749999999999986e+01   1.5824999999999998e+00 #xyz ev0
+           4.2299038105676630e+01   3.8749999999999986e+01   1.6174999999999999e+00 -1 1178 #xyz ev1 fid bid
+           4.2299038105676630e+01   3.8749999999999986e+01   1.5824999999999998e+00 #xyz ev0
+           4.2299038105676630e+01   3.8749999999999986e+01   1.6174999999999999e+00 -1 1178 #xyz ev1 fid bid
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 

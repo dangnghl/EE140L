@@ -1,0 +1,17 @@
+$begin 'imprintInfo'
+	FileVersion='2026R1'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(46, 'ground', -1, 6, 47, 49, 50, 51, 48, 52)
+		Part(74, 'substrate', -1, 6, 75, 77, 78, 79, 76, 80)
+		Part(1154, 'port_1', -1, 1, 1164)
+		Part(1166, 'port_2', -1, 1, 1176)
+		Part(1178, 'trace', -1, 30, 1683, 1684, 1685, 1686, 1687, 1688, 1689, 1690, 1691, 1692, 1693, 1694, 1695, 1696, 1697, 1698, 1699, 1700, 1701, 1702, 1703, 1704, 1705, 1706, 1707, 1708, 1709, 1710, 1711, 1712)
+		Part(1370, 'air_box', -1, 6, 1371, 1373, 1374, 1375, 1372, 1376)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'
