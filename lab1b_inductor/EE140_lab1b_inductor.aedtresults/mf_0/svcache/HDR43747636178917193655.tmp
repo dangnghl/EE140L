@@ -1,6 +1,6 @@
 SimValueCacheVersionID=1
 $begin 'SimValueInfos'
-	NextUniqueID=2
+	NextUniqueID=3
 	MoveBackwards=false
 	$begin 'SimValue'
 		ID=0
@@ -14,6 +14,14 @@ $begin 'SimValueInfos'
 		ID=1
 		$begin 'SimValueParams'
 			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='Z(1,1)'
 			ValueState(90, 15, 1, 2)
 			MatrixSize(0, 0)
 		$end 'SimValueParams'
@@ -37,16 +45,19 @@ $begin 'SimValueCache'
 						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=534
+						VersionID=759
 						$begin 'MinorVVMap'
 							MajorVariation='er=\'4.4000000000000004\' h=\'1.6000000000000001mm\' t=\'0.035000000000000003mm\' w=\'3mm\''
-							MinorCacheFile='min571117540178976550116.tmp'
+							MinorCacheFile='min1B4012828179444685848.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=455
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=856
 			$end 'ContextMap'
 		$end 'SolutionMap'
 	$end 'DesignMap'

@@ -1,10 +1,14 @@
 $begin 'CacheDataVersion'
-	DataVersion=15
+	DataVersion=-1
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 	h='1.6mm'
 	$h='1.6mm'
 	cu_th='0.035mm'
 	er='4.4'
-	w='3mm'
+	substract_width='40mm'
+	substract_height='40mm'
+	topPlate_width='30mm'
+	topPlate_length='30mm'
+	inputStrip_width='3mm'
 $end 'VariableValues'
